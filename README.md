@@ -1,3 +1,5 @@
+<p align="center"><img src="./banner.svg" alt="ZhangDM-520 Banner" width="100%" /></p>
+
 ## Welcome! 👋
 
 **Glad to see you!** I am a *International Business* student from ZJGSU, China. 
