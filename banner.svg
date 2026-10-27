@@ -203,17 +203,17 @@
       <!-- Item 1 -->
       <text x="0" y="0" class="mono" font-size="14" fill="#f2a65a">◈</text>
       <text x="22" y="0" class="sans item-title">Smoother Everyday Computing</text>
-      <text x="22" y="19" class="sans item-desc">Keeping apps responsive & balanced automatically</text>
+      <text x="22" y="19" class="sans item-desc">Keeping apps responsive - balanced automatically</text>
 
       <!-- Item 2 -->
       <text x="0" y="54" class="mono" font-size="14" fill="#e07a5f">◈</text>
-      <text x="22" y="54" class="sans item-title">Thoughtful Screen & Display Care</text>
-      <text x="22" y="73" class="sans item-desc">Smart idle locks & gentle ambient brightness</text>
+      <text x="22" y="54" class="sans item-title">Thoughtful Screen - Display Care</text>
+      <text x="22" y="73" class="sans item-desc">Smart idle locks - gentle ambient brightness</text>
 
       <!-- Item 3 -->
       <text x="0" y="108" class="mono" font-size="14" fill="#f4d58d">◈</text>
-      <text x="22" y="108" class="sans item-title">Clean & Effortless Documents</text>
-      <text x="22" y="127" class="sans item-desc">One-step PDF cleanup & typography helpers</text>
+      <text x="22" y="108" class="sans item-title">Clean - Effortless Documents</text>
+      <text x="22" y="127" class="sans item-desc">One-step PDF cleanup - typography helpers</text>
 
       <!-- Divider -->
       <line x1="0" y1="150" x2="364" y2="150" stroke="#46332b" stroke-width="1" />
