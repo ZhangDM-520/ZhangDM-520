@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-**Glad to see you!** I am a *International Business* student from ZJGSU, China. 
+**Glad to see you!** I am a *International Business* student from ZJGSU, China.
 
 It might be odd to see a person major in business be interested in CS; yeah, there is a knowledge gap, but AI has enabled all of us to code and learn how to create things, *independently*. We say vibe coded things is faulty and unpredictable that will breake at any place and any time, tbh, I admit it but this shouldn't stop us from **contributing** to make our envision not a dream but a reality.
 
@@ -28,35 +28,19 @@ I also contribute to [umbriel](https://github.com/noctalia-dev/umbriel), a compo
 
 I also make some gadgets:
 
-- **Aranicy**: a rust rewrite of `ananicy-cpp`, aims to realise auto-nice tuning at a lowest performance overhead **6x cheaper than original project!!**
+- **Aranicy**: a rust rewrite of [ananicy-cpp](https://github.com/EvoXCX/ananicy-cpp), aims to realise auto-nice tuning at a lowest performance overhead **6x cheaper than original project!!**
 - Two onlyoffice plugins.
 
 More contribution is coming! I am always here waiting your call ❤️.
 
 ### Reach me 💬
 
-My timezone is UTC+8 thus I am *available at, for example, 1AM-1PM (London daylight saving time, UTC+1), 7PM-7AM (New York standard time UTC-5).*
+My email is *<jixianqiang1540@gmail.com>* - feel free to reach me! Or simply @me in github discussion, I will reply **ASAP**.
 
-My email is _jixianqiang1540@gmail.com_ - feel free to reach me! Or simply @me in github discussion, I will reply **ASAP**.
-
-Language: *English, Chinese* and French (learning! read-only)
+![English](https://img.shields.io/badge/Language-English-%238b5e3c?style=flat-square) ![Chinese](https://img.shields.io/badge/Language-Chinese-%23de2910?style=flat-square) ![French (learning, read-only)](https://img.shields.io/badge/Language-French%20(learning%2C%20read--only)-%230055a4?style=flat-square) ![Timezone UTC+8](https://img.shields.io/badge/Timezone-UTC%2B8-%23534b6f?style=flat-square)
 
 ### Facts 💌
 
-***I use Arch, btw.*** 
+***I use Arch, btw.***
 
-
-<!--
-**ZhangDM-520/ZhangDM-520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-%231793d1?style=flat-square&logo=archlinux&logoColor=white) ![Noctalia](https://img.shields.io/badge/Shell-%E2%98%BE%20Noctalia-%23121246?style=flat-square) ![Umbriel](https://img.shields.io/badge/Compositor-%E2%98%BE%20Umbriel-%23929216?style=flat-square)
