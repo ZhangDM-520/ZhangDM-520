@@ -1,8 +1,8 @@
 ## Welcome! 👋
 
-**Good to see you!** I am a *International Bussiness* student from ZJGSU, China. 
+**Glad to see you!** I am a *International Business* student from ZJGSU, China. 
 
-It might be odd to see a person major in business be intrested in CS; yeah, there is a knowledge gap, but AI has enabled all of us to code and learn how to create things, *independently*. We say vibe coded things is faulty and unpredictable that will breake at any place and any time, tbh, I admit it but this shouldn't stop us from **contributing** to make our envision not a dream but a reality.
+It might be odd to see a person major in business be interested in CS; yeah, there is a knowledge gap, but AI has enabled all of us to code and learn how to create things, *independently*. We say vibe coded things is faulty and unpredictable that will breake at any place and any time, tbh, I admit it but this shouldn't stop us from **contributing** to make our envision not a dream but a reality.
 
 ***I will do my best to be responsible for my contribution instead of being a LAZY coder.***
 
@@ -10,15 +10,26 @@ And anyway - I am ZhangDM and am super happy to have you there! 🫶
 
 ### What's My Scope? 🤔
 
-Wide. I have no major projects up to now; if I have to pick one, I will say *gentoo-style-arch* (gsa).
+***Wide***. I have no major projects up to now; if I have to pick one, I will say *gentoo-style-arch* (gsa).
 
-It is a package manager taken inspration from Gentoo's Portage. The belief is, *software shall be tailored to the hardware*. The popular example is Gentoo, which is a source-based distro - that is facinating but a problem lingers: it is **difficult** for common users. So there comes my idea.
+It is a package manager taken inspiration from Gentoo's Portage. The belief is, *software shall be tailored to the hardware*. The instance is Gentoo, which is a source-based distro - that is facinating but the problem: it is **difficult** for common users. So there comes gsa which is a rust based package manager live with pacman. It can manage build and stock package swapping smartly. The robust dependency design helps avoiding your system from breaking because of ABI skew; QoL improvements eleminates the frustration of siting in front of your PC constantly troubleshooting and supervising; Shipped recipes are optimised, giving the best advantages of compile packages locally.
 
-Gsa is a rust based package manager live under pacman. It can manage build and stock package swaping smartly. The robust dependency design helps avoiding your system from breaking because of ABI skew; QoL improvements eleminates the frustration of siting in front of your pc constantly troubleshooting and supervising; Shipped recipes are optimised, giving the best advantages of compile packges locally.
+Apart from gsa, **my main scope is within Noctalia project**; which is a fascinating project to achieve a desktop that feels like one and which is actively evolving.
 
-Apart from gsa, my contribution is somewhat **trivial** yet I believe it will *make a change*. ALS-brightness plugin in Noctalia-community-plugins achieved ambient adaptation: panel brightness controll, temperature fiting and keyboard backlight adaptation, which is forgotten for a long time yet matters a lot; Niri-Media-idle make our idle behaviour more fine-grained - video should inhibit all idle action while music allow dms-off. 
+I maintain several plugins under [community-plugins](https://github.com/noctalia-dev/community-plugins). They are:
 
-I run a system actively tracking upstream updates and I passionately test upstream changes, report issue, participate in discussion and create PRs if I am able to fix.
+- **ALS-brightness**: a plugin reads your ambient lightness sensor and dynamically adapt your panel brightness, screen temperature and keyboard backlight.
+- **Inhibit-idle-while-watching**: a plugin could be registered before real idle action, use your camera to capture image, analyse if you were present to reset idle timeout or let the idle happen
+- **Niri-media-idle**: born to resolve niri's defects that couldn't differ audio or video is playing, providing a more refined idle experience.
+
+I also contribute to [umbriel](https://github.com/noctalia-dev/umbriel), a compositor from noctalia team; and my contribution mostly picks up what we missed and respond to our issues.
+
+I also make some gadgets:
+
+- **Aranicy**: a rust rewrite of `ananicy-cpp`, aims to realise auto-nice tuning at a lowest performance overhead **6x cheaper than original project!!**
+- Two onlyoffice plugins.
+
+More contribution is coming! I am always here waiting your call ❤️.
 
 ### Reach me 💬
 
