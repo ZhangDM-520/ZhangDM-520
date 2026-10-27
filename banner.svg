@@ -145,7 +145,7 @@
     <!-- Name & Handle -->
     <g transform="translate(0, 76)">
       <text x="0" y="0" class="sans title">ZhangDM here!</text>
-      <text x="360" y="-4" class="mono handle">@ZhangDM-520</text>
+      <text x="380" y="-4" class="mono handle">@ZhangDM-520</text>
     </g>
 
     <!-- Trans Flag Gradient Divider -->
