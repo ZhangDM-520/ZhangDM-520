@@ -134,7 +134,7 @@
       <!-- Warm Status Pill -->
       <g transform="translate(428, -15)">
         <rect x="0" y="0" width="188" height="22" rx="11" fill="#3a251e" stroke="#e07a5f" stroke-width="1" stroke-opacity="0.6" />
-        <text x="14" y="15" class="mono" font-size="11.5" font-weight="600" fill="#f4a261">✦ Building & Sharing</text>
+        <text x="14" y="15" class="mono" font-size="11.5" font-weight="600" fill="#f4a261">✦ Building - Sharing</text>
       </g>
     </g>
 
@@ -195,7 +195,7 @@
     <path d="M 0,14 Q 0,0 14,0 L 394,0 Q 408,0 408,14 L 408,40 L 0,40 Z" fill="#382822" />
     <line x1="0" y1="40" x2="408" y2="40" stroke="#4d382f" stroke-width="1" />
 
-    <text x="20" y="25" class="sans card-title">✦ WHAT I ENJOY BUILDING & SHARING</text>
+    <text x="20" y="25" class="sans card-title">✦ WHAT I ENJOY BUILDING - SHARING</text>
     <text x="372" y="25" class="mono card-title sparkle">☼</text>
 
     <!-- Friendly Project Highlights -->
